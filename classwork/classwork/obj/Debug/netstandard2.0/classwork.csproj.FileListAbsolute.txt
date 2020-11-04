@@ -1,0 +1,9 @@
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\bin\Debug\netstandard2.0\classwork.deps.json
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\bin\Debug\netstandard2.0\classwork.dll
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\bin\Debug\netstandard2.0\classwork.pdb
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\obj\Debug\netstandard2.0\classwork.csprojAssemblyReference.cache
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\obj\Debug\netstandard2.0\classwork.csproj.CoreCompileInputs.cache
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\obj\Debug\netstandard2.0\classwork.AssemblyInfoInputs.cache
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\obj\Debug\netstandard2.0\classwork.AssemblyInfo.cs
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\obj\Debug\netstandard2.0\classwork.dll
+C:\Users\gultacat\Desktop\04.11\classwork\classwork\obj\Debug\netstandard2.0\classwork.pdb
